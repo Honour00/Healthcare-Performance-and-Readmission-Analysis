@@ -2,7 +2,23 @@
 
 This repository contains a **comprehensive data analysis project** on patient admissions and readmissions, conducted for a healthcare facility. The objective of this study is to **reduce hospital readmission rates** and **improve operational efficiency**.  
 
-The project leverages **Power BI for interactive dashboards** and **Excel/SQL for data cleaning and preprocessing**, providing both **visual insights** and **strategic recommendations**.  
+The project leverages **Power BI for interactive dashboards** and **Excel/SQL for data cleaning and preprocessing**, providing both **visual insights** and **strategic recommendations**.
+
+---
+
+## 📑 Table of Contents  
+
+1. [Project Overview](#-project-overview)  
+2. [Dashboards & Key Insights](#-dashboards--key-insights)  
+   - [Community Health Analysis](#1️⃣-community-health-analysis)  
+   - [Hospital Support Analysis](#2️⃣-hospital-support-analysis)  
+   - [Daycare Analysis](#3️⃣-daycare-analysis)  
+3. [Comparative Insights Across Settings](#-comparative-insights-across-settings)  
+4. [Recommendations](#-recommendations)   
+5. [Tools & Techniques Used](#-tools--techniques-used)  
+6. [Conclusion](#-conclusion)  
+7. [Author](#author)  
+
 
 ## Project Overview  
 Hospital readmissions place a heavy burden on healthcare systems — financially, operationally, and in terms of patient outcomes.  
@@ -26,6 +42,10 @@ The goal is to provide data-driven recommendations to guide **resource allocatio
 ## Dashboards & Key Insights  
 
 ### 1️⃣ Community Health Analysis
+
+<img width="1080" height="1206" alt="image (1)" src="https://github.com/user-attachments/assets/2a72d1e2-7170-404f-9772-55f5e20535b5" />
+
+
 **Metrics**  
 - Total Patients: **285**  
 - Total Admissions: **1.4K**  
@@ -43,6 +63,10 @@ The goal is to provide data-driven recommendations to guide **resource allocatio
 ---
 
 ### 2️⃣ Hospital Support Analysis
+
+<img width="1080" height="1187" alt="image" src="https://github.com/user-attachments/assets/2adc66d0-2ac4-4d30-a5c3-e470fb49e2c5" />
+
+
 **Metrics**  
 - Total Patients: **194**  
 - Total Admissions: **875**  
@@ -61,6 +85,10 @@ The goal is to provide data-driven recommendations to guide **resource allocatio
 ---
 
 ### 3️⃣ Daycare Analysis
+
+<img width="1080" height="1191" alt="image (2)" src="https://github.com/user-attachments/assets/573b4672-86a1-45d4-943d-87b26d389a29" />
+
+
 **Metrics**  
 - Total Patients: **80**  
 - Total Admissions: **333**  
@@ -110,17 +138,11 @@ The goal is to provide data-driven recommendations to guide **resource allocatio
 
 ---
 
-## 🛠 Tools & Techniques Used  
+## Tools & Techniques Used  
 - **Power BI** → Data visualization and dashboard design  
-- **Excel & SQL** → Data cleaning, preprocessing, and aggregation  
+- **Excel** → Data cleaning, preprocessing, and aggregation  
 - **Descriptive & Comparative Analytics** → Trend and pattern analysis  
 - **Healthcare KPIs** → Readmission rates, survival, LOS (length of stay)  
-
----
-
-## Repository Contents  
-- `dashboards/` → PNG images of dashboards (Community, Hospital, Daycare)  
-- `report/` → Full project report in PDF (detailed insights & recommendations)  
 
 ---
 
