@@ -8,17 +8,18 @@ The project leverages **Power BI for interactive dashboards** and **Excel/SQL fo
 
 ## 📑 Table of Contents  
 
-1. [Project Overview](#-project-overview)  
-2. [Dashboards & Key Insights](#-dashboards--key-insights)  
-   - [Community Health Analysis](#1️⃣-community-health-analysis)  
-   - [Hospital Support Analysis](#2️⃣-hospital-support-analysis)  
-   - [Daycare Analysis](#3️⃣-daycare-analysis)  
-3. [Comparative Insights Across Settings](#-comparative-insights-across-settings)  
-4. [Recommendations](#-recommendations)   
-5. [Tools & Techniques Used](#-tools--techniques-used)  
-6. [Conclusion](#-conclusion)  
-7. [Author](#author)  
+1. [Project Overview](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#project-overview)  
+2. [Dashboards & Key Insights](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#dashboards--key-insights)  
+   - [Community Health Analysis](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#1%EF%B8%8F%E2%83%A3-community-health-analysis)  
+   - [Hospital Support Analysis](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#2%EF%B8%8F%E2%83%A3-hospital-support-analysis)  
+   - [Daycare Analysis](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#3%EF%B8%8F%E2%83%A3-daycare-analysis)  
+3. [Comparative Insights Across Settings](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#comparative-insights-across-settings)  
+4. [Recommendations](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#recommendations)   
+5. [Tools & Techniques Used](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#tools--techniques-used)  
+6. [Conclusion](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#conclusion)  
+7. [Author](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#author)  
 
+---
 
 ## Project Overview  
 Hospital readmissions place a heavy burden on healthcare systems — financially, operationally, and in terms of patient outcomes.  
@@ -29,7 +30,7 @@ This analysis focuses on three key healthcare settings:
 2. **Hospital Support Services**  
 3. **Daycare Services**  
 
-For each, we evaluated:  
+For each, i evaluated:  
 - Patient demographics (age, gender)  
 - Admission and readmission trends  
 - Diagnosis-specific readmission patterns  
@@ -38,6 +39,8 @@ For each, we evaluated:
 - Care durations and their effect on readmissions  
 
 The goal is to provide data-driven recommendations to guide **resource allocation, care planning, and funding justification**.  
+
+---
 
 ## Dashboards & Key Insights  
 
@@ -153,6 +156,6 @@ The insights and strategies proposed can serve as a blueprint for **funding prop
 
 ---
 
-👤 **Author**  
+## Author  
 **Alabi Usman Ayodeji**  
 Data Analyst | Power BI Enthusiast | Healthcare Analytics Advocate
