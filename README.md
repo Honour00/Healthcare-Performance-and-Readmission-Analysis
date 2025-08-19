@@ -2,11 +2,11 @@
 
 This repository contains a **comprehensive data analysis project** on patient admissions and readmissions, conducted for a healthcare facility. The objective of this study is to **reduce hospital readmission rates** and **improve operational efficiency**.  
 
-The project leverages **Power BI for interactive dashboards** and **Excel/SQL for data cleaning and preprocessing**, providing both **visual insights** and **strategic recommendations**.
+The project leverages **Power BI for interactive dashboards** and **Excel for data cleaning and preprocessing**, providing both **visual insights** and **strategic recommendations**.
 
 ---
 
-## 📑 Table of Contents  
+## Table of Contents  
 
 1. [Project Overview](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#project-overview)  
 2. [Dashboards & Key Insights](https://github.com/Honour00/Healthcare-Performance-and-Readmission-Analysis/blob/main/README.md#dashboards--key-insights)  
@@ -159,3 +159,11 @@ The insights and strategies proposed can serve as a blueprint for **funding prop
 ## Author  
 **Alabi Usman Ayodeji**  
 Data Analyst | Power BI Enthusiast | Healthcare Analytics Advocate
+
+---
+
+##  Connect with Me  
+
+-  [LinkedIn](https://www.linkedin.com/in/alabi-usman)   
+-  Email: usmanalabi26@gmail.com 
+-  [Twitter](https://x.com/AyDeji01?t=YkiGq-kFW7rRm6R1TNKIxA&s=09) 
