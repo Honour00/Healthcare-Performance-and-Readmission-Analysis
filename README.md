@@ -22,7 +22,7 @@ The project leverages **Power BI for interactive dashboards** and **Excel for da
 ---
 
 ## Project Overview  
-Hospital readmissions place a heavy burden on healthcare systems — financially, operationally, and in terms of patient outcomes.  
+Hospital readmissions place a heavy burden on healthcare systems;financially, operationally, and in terms of patient outcomes.  
 
 This analysis focuses on three key healthcare settings:  
 
